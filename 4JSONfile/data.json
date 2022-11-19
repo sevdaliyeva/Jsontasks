@@ -1,0 +1,32 @@
+[
+    {
+        "id" : "1",
+        "firstName" : "Ilham",
+        "lastName" : "Rzayev",
+        "age" : 34,
+        "salary" : 30000 
+    },
+    {
+        "id" : "2",
+        "firstName" : "Leyla",
+        "lastName" : "Mirzeyeva",
+        "age" : 37,
+        "salary" : 90000
+
+    },
+    {
+        "id" : "3",
+        "firstName" : "Namiq",
+        "lastName" : "Babayev",
+        "age" : 40,
+        "salary" : 9000
+    },
+
+    {
+        "id" : "4",
+        "firstName" : "Nermin",
+        "lastName" : "Gafarova",
+        "age" : 30,
+        "salary" : 10000
+    }
+]
